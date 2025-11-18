@@ -1,0 +1,7 @@
+librosa
+soundfile
+numpy
+pytest
+openai>=1.12.0
+torch>=2.2.0
+audiocraft
