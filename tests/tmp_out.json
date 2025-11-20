@@ -1,0 +1,8 @@
+{
+  "melody_midi": "tests\\fake_melody.mid",
+  "lyrics_title": "Example",
+  "lyrics_theme": "Test",
+  "output_wav": "tests\\tmp_out.wav",
+  "sample_rate": 44100,
+  "duration": 3.0
+}

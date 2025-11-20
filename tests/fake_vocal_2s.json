@@ -1,0 +1,9 @@
+{
+  "melody_midi": "tests\\fake.mid",
+  "lyrics_title": "Mock",
+  "lyrics_theme": null,
+  "output_wav": "tests\\fake_vocal_2s.wav",
+  "reference_voice_dir": null,
+  "sample_rate": 44100,
+  "duration": 2.0
+}

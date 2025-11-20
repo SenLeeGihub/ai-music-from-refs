@@ -1,0 +1,8 @@
+{
+  "melody_midi": "outputs\\melody\\20251118_203413_melody.mid",
+  "lyrics_title": "Soft Orbit",
+  "lyrics_theme": "在日常流动的节奏里悄然自我疗愈，学会放慢脚步、与内心和解的松弛状态",
+  "output_wav": "outputs\\demos\\demo_02_vocal_placeholder.wav",
+  "sample_rate": 44100,
+  "duration": 20.0
+}

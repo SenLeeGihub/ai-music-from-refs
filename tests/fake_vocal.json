@@ -1,0 +1,9 @@
+{
+  "melody_midi": "tests\\fake.mid",
+  "lyrics_title": "Mock Song",
+  "lyrics_theme": "Night city",
+  "output_wav": "tests\\fake_vocal.wav",
+  "reference_voice_dir": null,
+  "sample_rate": 44100,
+  "duration": 1.0
+}
